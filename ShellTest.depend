@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1500602054 source:d:\users\starvinmarvin\desktop\shelltest\main.cpp
+	<assert.h>
+	<string>
+	<deque>
+	<iostream>
+
+1500588521 source:d:\users\starvinmarvin\desktop\shelltest\comments.cpp
+
